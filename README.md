@@ -345,6 +345,7 @@ flowchart LR
 | [Momentic](https://momentic.ai) | E2E-тесты на естественном языке | — |
 | [QA Wolf](https://www.qawolf.com) | E2E-покрытие «под ключ» с ИИ | — |
 | [Codeflash](https://www.codeflash.ai) | Автоматическая оптимизация производительности Python-кода | 🆓 |
+| [agent-qa](https://vostride.com) | Тестирование Web, Android и iOS на естественном языке через CLI или MCP, с постоянной памятью memidex, проверяемым самоулучшением и доказательствами выполнения; [FSL-1.1-ALv2](https://vostride.com/license.md) с ограничениями конкурирующего использования, расходы на модели и инфраструктуру отдельно | 🔌 |
 
 ## 🔐 Безопасность
 
